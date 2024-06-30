@@ -25,7 +25,8 @@ alert (result);
 ## Experience
 Junior PHP Developer in Light Well Organization
 ## Education
-__University:__ Belarusian State Technological University (BSTU) - Design of Electronic and Web-publications Bachelor's degree
+* __University:__ Belarusian State Technological University (BSTU) - Design of Electronic and Web-publications Bachelor's degree
+* __Courses:__ JS/FE Pre-School by RS School (in progress)
 ## Languages
 * English - Intermediate
 * Russian - Native
